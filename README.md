@@ -93,4 +93,9 @@ We welcome contributions! If you would like to improve HunterTrust, please follo
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+HunterTrust is licensed under the MIT License. This allows you to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, as long as you include the original license in all copies or substantial portions of the software.
+
+**Disclaimer**: The software is provided "as is," without warranty of any kind. The authors are not liable for any claims, damages, or other liabilities arising from its use. By using this software, you agree to do so at your own risk.
+
+For more details, please refer to the full license text in the [LICENSE](LICENSE) file.
+
