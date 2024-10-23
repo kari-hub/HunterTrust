@@ -2,7 +2,6 @@
 
 HunterTrust is a browser-based email monitoring extension designed to combat the rising threat of phishing attacks, particularly Business Email Compromise (BEC) scenarios. BEC attacks exploit vulnerabilities in email communication, targeting executives and employees to manipulate them into performing actions like transferring money or sharing sensitive information. These attacks can lead to significant financial losses and reputational damage for organizations.
 
-
 ## Table of Contents
 
 - [HunterTrust Email Add-on](#huntertrust-email-add-on)
@@ -98,4 +97,3 @@ HunterTrust is licensed under the MIT License. This allows you to use, copy, mod
 **Disclaimer**: The software is provided "as is," without warranty of any kind. The authors are not liable for any claims, damages, or other liabilities arising from its use. By using this software, you agree to do so at your own risk.
 
 For more details, please refer to the full license text in the [LICENSE](LICENSE) file.
-
